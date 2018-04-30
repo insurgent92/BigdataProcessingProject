@@ -19,13 +19,13 @@
 
 ## 2. Experiment
 ## 2.1 Experiment 1 : Comparison of Different Depth of Networks
-|Model | Elapse Time | 
-|:-----:|:-----:|------|
-|Depth 1| 9.18  |
-|Depth 3| 14.15 |
-|Depth 5| 19.27 |
-|Depth 7| 24.23 |
-|Depth 9| 29.10 |
+|Model | Elapse Time | train_acc | train_loss | valid_acc | valid_loss |
+|:----:|:-----------:|:---------:|:----------:|:---------:|:----------:|
+|Depth 1| 9.18       |
+|Depth 3| 14.15      |
+|Depth 5| 19.27      |
+|Depth 7| 24.23      |
+|Depth 9| 29.10      |
 ## 2.1 Experiment 2 : Comparison of Different Width of Layers
 ## 2.1 Experiment 3 : Comparison of Different Loss Functions
 ## 2.1 Experiment 4 : Comparison of Different Activation Functions
