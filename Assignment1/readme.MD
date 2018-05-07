@@ -33,10 +33,10 @@
 |Model 5| 9   |34.4833          |0.9799    |0.0907     |
 
 
-| | | | |
-|-|-|-|-|
-|![alt_tag](resource/depth-model1.png)|![alt_tag](resource/depth-model2.png)|![alt_tag](resource/depth-model3.png)|![alt_tag](resource/depth-model4.png)|
-|![alt_tag](resource/depth-model5.png)||
+| | | |
+|-|-|-|
+|![alt_tag](resource/depth-model1.png)|![alt_tag](resource/depth-model2.png)|![alt_tag](resource/depth-model3.png)|
+|![alt_tag](resource/depth-model4.png)|![alt_tag](resource/depth-model5.png)||
 
 ## 2.1 Experiment 2 : Comparison of Different Width of Layers
 
@@ -47,6 +47,11 @@
 |Model 3| 256 |16.8353          |0.9775    |0.0933     |
 |Model 4| 512 |18.9405          |0.9825    |0.0818     |
 |Model 5| 1024|33.9161          |0.9824    |0.0899     |
+
+| | | |
+|-|-|-|
+|![alt_tag](resource/width-model1.png)|![alt_tag](resource/width-model2.png)|![alt_tag](resource/width-model3.png)|
+|![alt_tag](resource/width-model4.png)|![alt_tag](resource/width-model5.png)||
 
 
 ## 2.1 Experiment 3 : Comparison of Different Loss Functions
@@ -67,6 +72,15 @@
 |Model 13|poisson                        |13.1506          |0.9781    |0.1113      |
 |Model 14|cosine_proximity               |13.3585          |0.9771    |-0.9799     |
 
+| | | | |
+|-|-|-|-|
+|![alt_tag](resource/loss1.png)|![alt_tag](resource/loss2.png)|![alt_tag](resource/loss3.png)|![alt_tag](resource/loss4.png)|
+|![alt_tag](resource/loss5.png)|![alt_tag](resource/loss6.png)|![alt_tag](resource/loss7.png)|![alt_tag](resource/loss8.png)|
+|![alt_tag](resource/loss9.png)|![alt_tag](resource/loss11.png)|![alt_tag](resource/loss12.png)|![alt_tag](resource/loss13.png)|
+|![alt_tag](resource/loss14.png)|
+
+
+
 
 ## 2.1 Experiment 4 : Comparison of Different Activation Functions
 |Models  |activation function|Train Duration(s)| Test_Acc | Test_loss  |
@@ -79,7 +93,10 @@
 |Model 6 |hard_sigmoid       |64.9374          |0.9631    |0.1188      |
 |Model 7 |linear             |88.4039          |0.8928    |0.3780      |
 
-## 3. Conclusion 
+| | | | |
+|-|-|-|-|
+|![alt_tag](resource/activation1.png)|![alt_tag](resource/activation2.png)|![alt_tag](resource/activation3.png)|![alt_tag](resource/activation4.png)|
+|![alt_tag](resource/activation5.png)|![alt_tag](resource/activation6.png)|![alt_tag](resource/activation7.png)|
 
 
 
