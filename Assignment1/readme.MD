@@ -33,10 +33,9 @@
 |Model 5| 9   |34.4833          |0.9799    |0.0907     |
 
 
-| | |
-|-|-|
-|![alt_tag](resource/depth-model1.png)|![alt_tag](resource/depth-model2.png)|
-|![alt_tag](resource/depth-model3.png)|![alt_tag](resource/depth-model4.png)|
+| | | | |
+|-|-|-|-|
+|![alt_tag](resource/depth-model1.png)|![alt_tag](resource/depth-model2.png)|![alt_tag](resource/depth-model3.png)|![alt_tag](resource/depth-model4.png)|
 |![alt_tag](resource/depth-model5.png)||
 
 ## 2.1 Experiment 2 : Comparison of Different Width of Layers
