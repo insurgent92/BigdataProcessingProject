@@ -27,6 +27,13 @@
 |Depth 7| 24.23      |0.9616    |0.6181     |
 |Depth 9| 29.10      |0.9781    |0.1977     |
 ## 2.1 Experiment 2 : Comparison of Different Width of Layers
+|Model     | Elapse Time| test_acc | test_loss |
+|:--------:|:----------:|:--------:|:---------:|
+|Width 128 | 9.18       |0.9284    |0.2961     |
+|Width 256 | 14.15      |0.9832    |0.1788     |
+|Width 512 | 19.27      |0.9793    |0.2275     |
+|Width 1024| 24.23      |0.9616    |0.6181     |
+|Width 2048| 29.10      |0.9781    |0.1977     |
 ## 2.1 Experiment 3 : Comparison of Different Loss Functions
 ## 2.1 Experiment 4 : Comparison of Different Activation Functions
 
