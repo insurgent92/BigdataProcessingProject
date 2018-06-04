@@ -19,3 +19,7 @@ Assignment2/validation_lable\.txt
 Assignment2/test\.xml
 
 Assignment2/note\.xml
+*.h5
+Assignment1/resource/
+*.JPG
+*.zip
